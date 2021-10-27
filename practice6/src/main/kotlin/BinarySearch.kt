@@ -25,7 +25,7 @@ fun main() {
     if(pos<0){
         println("$ele not found.")
     } else
-    println("$ele found at position ${pos+1}.")
+        println("$ele found at position ${pos+1}.")
 }
 
 
