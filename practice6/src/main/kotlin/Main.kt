@@ -1,4 +1,5 @@
 //binary search
+
 fun main() {
     println("Enter the number of elements:")
     val n = readLine()?.toInt()!!
